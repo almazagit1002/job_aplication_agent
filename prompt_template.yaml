@@ -1,0 +1,97 @@
+cover_letter_prompt_templates:
+    
+    draft_cover_letter_template: |
+        <|begin_of_text|><|start_header_id|>system<|end_header_id|>
+            You are a helpfull assistant
+            RETURN ONLY cover letter, NO PREPHASE,NO SCRIPTS, NO COMMENTS, NO EXPLANATIONS.
+        <|eot_id|><|start_header_id|>user<|end_header_id|>
+            Using the following job description, and the relevant qualifications write a cover letter:
+            JOB DESCRIPTION:
+                
+                {JOB_DESCRIPTION}
+            
+            QUALIFICATIONS:
+
+              {QUALIFICATIONS}
+
+        <|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+    cover_letter_feedback_template: |
+            <|begin_of_text|><|start_header_id|>system<|end_header_id|>
+            You are a helpfull assistant, that gives feedback in a cover letter based on the following rules:
+            RULES:
+               {RULES}
+            RETURN ONLY FEEDBACK, ABSOLUTELY NO PREPHASE,NO SCRIPTS, NO COMMENTS, NO EXPLANATIONS.
+            <|eot_id|><|start_header_id|>user<|end_header_id|>
+            Read the cover letter, qualifications, and job description and provide fedback:
+            COVER LETTER:
+
+              {COVER_LETTER}
+            
+            JOB DESCRIPTION:
+                
+                {JOB_DESCRIPTION}
+            
+            QUALIFICATIONS:
+
+              {QUALIFICATIONS}
+            <|eot_id|><|start_header_id|>assistant<|end_header_id|>
+        
+
+    cover_letter_editor_template: |
+            <|begin_of_text|><|start_header_id|>system<|end_header_id|>
+            You are a helpfull assistant, that gives edits based on the given feedback:
+            RETURN ONLY cover letter, NO PREPHASE,NO SCRIPTS, NO COMMENTS, NO EXPLANATIONS.
+            <|eot_id|><|start_header_id|>user<|end_header_id|>
+            Read the fedback and edit the cover letter using the given qualifications:
+            FEEDBACK:
+                
+                {FEEDBACK}
+            
+            COVER LETTER:
+
+              {COVER_LETTER}
+
+            QUALIFICATIONS:
+
+              {QUALIFICATIONS}
+            <|eot_id|><|start_header_id|>assistant<|end_header_id|>
+        
+
+
+job_description_prompt_templates:
+  job_description_summary_template: |
+            <|begin_of_text|><|start_header_id|>system<|end_header_id|>
+            You are a helpfull assistant, that summaries job description based in the following aspects:
+
+              * Job Title
+              * Company Name
+              * Name of Recluting Manager
+              * Key Responsibilities
+              * Required and Preferred Qualifications
+              * Skills and Competencies
+              * Company Values and Culture
+              * Achievements and Impact
+              * Keywords and Phrases
+
+            Always return json with the keys from above
+            <|eot_id|><|start_header_id|>user<|end_header_id|>
+            Read the job description and produce a json summary:
+            
+            JOB DESCRIPTION:
+                
+                {JOB_DESCRIPTION}
+            The summary needs to have the followig schema:
+              * Job Title: Required
+              * Company Name: Required
+              * Name of Recluting Manager: Optional
+              * Key Responsibilities: Required
+              * Required and Preferred Qualifications: Required
+              * Skills and Competencies: Required
+              * Company Values and Culture: Optional
+              * Achievements and Impact: Optional
+              * Keywords and Phrases: Optional
+            <|eot_id|><|start_header_id|>assistant<|end_header_id|>
+        
+
+        

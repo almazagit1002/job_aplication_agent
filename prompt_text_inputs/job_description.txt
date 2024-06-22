@@ -1,0 +1,70 @@
+About the job
+About Remobi:
+
+
+
+We are building the world's greatest community of remote technologists!
+
+
+Today, organizations that understand the value of remote working will reap the rewards. Because it doesn’t just provide team members with a healthier work-life balance, it gives you the opportunity to access the brightest minds in the world.
+
+
+Our clients access our community to build or extend their existing teams. All are made up of remote, distributed software engineering experts - the best-in-class. Rapidly deployed without compromising on quality.
+
+
+Join our Remobi community to have access to meaningful, innovative freelance projects and play a key role in shaping how companies operate.
+
+
+Duration: Until End of Sept 2024 (with a possibility of extending)
+Start: ASAP
+Location: Remote (Candidates Must be in Europe)
+Position Type: Freelance/Contract/B2B
+
+
+Summary:
+
+As a Data Architect you will be responsible for designing, creating, deploying, and managing data architecture. This role requires a deep understanding of database design, data integration, data governance, and performance optimization
+
+
+How You’ll Make An Impact (Responsibilities)
+
+
+
+You will be responsible for:
+
+
+Dashboard development and data architecture services to deliver a robust, production talent acquisition data analysis solution
+Capturing and delivering requirements for data visualization dashboards/datahubs (such as data models, data architecture, database design/build, data sets integration, data pipelines and front-end requirements), working as part of an Agile delivery team (squad), collaborating with business, data and technical colleagues as needed.
+Building the data architecture solutions necessary to serve data visualization/datahubs and deploy into production
+Designing and developing data pipelines to extract, transform, and load the necessary data to meet data visualization/data-hub requirements, including any necessary analyses and calculations
+Building necessary monitoring and testing services to ensure an appropriate level of quality can be maintained in production
+Iterating and refining services based on stakeholder feedback to ensure alignment with the requirements and product vision.
+Building to a production-ready standard, and work with the team on technical dependencies necessary to do so.
+Preparing documentation, such as tickets and a wiki, to facilitate the agile development process and knowledge retention.
+Ensuring alignment and integration with adjacent data and analytics initiatives, to promote reusability and cost-effective-ness.
+
+
+What You Bring (Skills, Capabilities)
+
+
+
+You will:
+
+
+Proven experience as a Data Architect
+Strong knowledge of database management systems (e.g., SQL, NoSQL).
+Experience with data modeling tools and methodologies.
+Proficient in ETL tools and data integration techniques.
+In-depth understanding of data governance and data quality principles.
+Familiarity with data security and privacy regulations.
+Excellent communication and collaboration skills.
+Strong analytical and problem-solving abilities.
+Experience with cloud data platform- AWS
+
+
+Meet the hiring team
+Sandra
+Sandra P.  Sandra P. is verified
+ 3rd
+Talent Acquisition Specialist
+Job poster

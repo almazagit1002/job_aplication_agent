@@ -1,0 +1,9 @@
+aritfacts_root: aritfacts
+
+
+cover_letter:
+  save_cover_letter_dir: artifacts/cover_letter
+  save_job_description_dir: artifacts/job_description
+  cover_letter_rules: prompt_text_inputs/cover_letter_rules.txt
+  qualifications: prompt_text_inputs/qualifictaions.txt
+  job_description: prompt_text_inputs/job_description.txt

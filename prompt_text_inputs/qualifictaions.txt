@@ -1,0 +1,42 @@
+Name:
+    Alejandro Maza Villalpando
+Masters in computational physics:
+    One year mastest thesis unsing deep neural networks to build a predictive model in a star formation simulation
+3+ years workíng experinece with python:
+    Developing and mantaining data pipelines
+    Performing statistics and data analysis
+    machine learning development:
+        Developed CNN for noise clasification
+    API development
+3+ years workíng experinece with SQL:
+    Developing and mantaining data pipelines
+    Performing statistics and data analysis
+    Data mapping
+3+ years workíng experinece with cloud computing:
+    AWS:
+        Knowledge of AWS soultion arquitect, working  setting up servers, VPC, and storage and interacting with them
+    Azure:
+        Working with storage blobs
+Docker:
+    Implementing contenarization for data pipeline
+Jenkins:
+    Set up of CI/CD system, creating alets in code failure
+Linux:
+    Setting up and mantaining on prem and cloud servers
+PowerBI:
+    Creating interactive dashboards for client and managmant team presentations
+
+Experience with LLM development:
+    Developing RAG system for diferent aplications:
+        Creating Neo4j Graph database for retrival
+        creating Pinecone vector database for retrival
+        API develoment for processing queries
+
+Soft skills:
+    Great comunication skills
+    Team working
+    continuous lerner
+    Analytical mind
+    acostumed to fast pased enviroment due to work in startups
+    Great social skills
+    Always willing to help
