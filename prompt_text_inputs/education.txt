@@ -1,0 +1,18 @@
+2021 to 2023:
+    Masters in Computational Physics In Copenhagen University
+    Subjects:
+        Applied Statistics 
+        High-perfomance parallel computing
+        Inversce problems
+        Advance Applied Statistics
+    Thesis:
+        Machine Learning Methods for Predicting Stellar Parameters in Realistic Molecular Cloud Environments
+
+2015 to 2019:
+    Bachelors in Physics:
+    Subjects:
+        Complex analyis
+        Statistical mechanics
+        Partial diferential equations
+        
+        

@@ -7,3 +7,12 @@ cover_letter:
   cover_letter_rules: prompt_text_inputs/cover_letter_rules.txt
   qualifications: prompt_text_inputs/qualifictaions.txt
   job_description: prompt_text_inputs/job_description.txt
+
+CV:
+  qualifications: prompt_text_inputs/qualifictaions.txt
+  job_description: prompt_text_inputs/job_description.txt
+  contact_info: prompt_text_inputs/contact_info.txt
+  about_me: prompt_text_inputs/about_me.txt
+  education: prompt_text_inputs/education.txt
+  experience: prompt_text_inputs/experience.txt
+  CV_file: CV/main.tex

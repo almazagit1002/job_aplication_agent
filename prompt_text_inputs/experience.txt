@@ -1,0 +1,33 @@
+February 2024 to April 2024:
+    Internship in Mesh Firm as Machine learning Engineer
+    Responsabilities:
+        Developed vectro database fro Retrival Augmented Geneartion application using Pinecone
+        Created API with Fast API with post and get methods for LLM chat application, using Langchain, Langraph, OpenAI and Lama3
+        Monitored Llm agents functionality and token usage with Langsimth
+
+August 2022 to September 2023
+    Part time job in Precure as Data Engineer
+    Responsabilities:
+        Established a CI/CD pipeline using Jenkins for streamlined project development and deployment.
+        Developed a CNN system leveraging TensorFlow to detect and exclude noisy EMG signals        
+        Configured and managed Linux servers for efficient data processing and analysis
+        Conducted a comparative analysis of EMG signals from different materials 
+        using Python and LaTeX, to improve material durability.
+        Designed and implemented Docker images and containers for the ETL data 
+        processes, ensuring scalability and reproducibility.
+        Ensured GDPR compliance by modifying segments of the ETL process using Python.
+        Created data analytic dashboards using Power BI, providing insightful visualizations for finished project analysis.
+
+November 2020 to August 2022
+     Junior Data Engineer in Keller Williams 
+    Responsabilities:
+        Implemented alerting mechanisms for the ETL pipeline of the Keller Williams website using Python Jenkings and Jira, enhancing real-time monitoring and issue identification. 
+        Resolved bugs in the ETL pipeline, employing a skill set that includes Python, AWS, Linux, and Oracle technologies. 
+        Conducted data mapping tasks in Oracle, ensuring seamless integration and accurate representation of data across the system
+        Data analyis of efectivity of alters in cacthing issues in the pipeline
+
+July 2018  to August 2019
+     JPart time Probe physicist in Novosound 
+    Responsabilities:
+        Constructed and tested ultrasound probes using Novosound's innovative piezoelectric materials, contributing to the development of cutting-edge medical imaging devices 
+        Modeled computer and mathematical ultrasound waves using Onscale, enhancing understanding and optimization of ultrasound-based systems.
