@@ -11,8 +11,9 @@ cover_letter:
 CV:
   qualifications: prompt_text_inputs/qualifictaions.txt
   job_description: prompt_text_inputs/job_description.txt
-  contact_info: prompt_text_inputs/contact_info.txt
+  contact_info: prompt_text_inputs/contact_info.yaml
   about_me: prompt_text_inputs/about_me.txt
   education: prompt_text_inputs/education.txt
   experience: prompt_text_inputs/experience.txt
   CV_file: CV/main.tex
+  edited_CV: CV/edited_main.tex

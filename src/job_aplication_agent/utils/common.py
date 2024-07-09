@@ -127,13 +127,17 @@ def get_size(path: Path) -> str:
 
 
 @ensure_annotations
-def load_txt(file:Path) -> str:
-    with open(file, 'r') as file:
+def read_file(file:Path) -> str:
+    with open(file, 'r', encoding='utf-8') as file:
         # Read the entire content of the file
         content = file.read()
     
     return content
 
+def save_file(file:Path,content:str):
+    # Open the file in write mode and write the string to it
+    with open(file, 'w', encoding='utf-8') as file:
+        file.write(content)
 
 
 
