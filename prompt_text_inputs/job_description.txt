@@ -1,70 +1,54 @@
-About the job
-About Remobi:
+Master Data Architect 
+Do you want to be a part of the world’s biggest jewelry manufacturer and utilize your expertise in master data architecture within our Pandora Data Landscape in general and the SAP ecosystem in particular. Are you a forward-thinking master data architect who is passionate about staying at the forefront of technology? Do you possess an unwavering commitment to ensuring the accuracy and integrity of data during complex transformations? If so, we have an exciting opportunity for you! We are looking for a master data architect specializing in SAP Solutions, to lead, design and develop processes, solutions and capabilities around our master data within Pandora. You will be part of a growing business area and work in an international organization of can-do spirited, passionate, and performance-driven people.
+
+Pandora’s Transformational Journey
+
+As part of our digital transformation, in 2023 we launched our business ERP transformation Program “Compass” which aims at simplifying our business, driving standardization, and setting strong foundations for our growth.
+
+We are a greenfield implementation leveraging the newest SAP technologies such as SAP S4 HANA on Private Cloud, cloud ALM, BTP as well as Kafka for integration capabilities. We have started building a strong internal team of SAP experts and are continuing to do so. Our scope is truly global, and we cover processes from manufacturing, distribution, retail, to procurement and finance.
+
+Expect a global journey ahead where you will become the torchbearer of cutting-edge SAP practices, advocating for the latest advancements in S/4HANA and cloud programming. Our S/4HANA platform will enable PANDORA´s future business growth and customer excellence through automation and process simplification.
+
+Master Data Architect to support Pandora’s future MD landscape 
+
+As our new master data architect you will be playing a significant role in our SAP ERP program where you will be bringing in your expertise to guide and decide on future master data process and related tech landscape based on Pandora’s direction. You will be working with other senior professionals to define excellent master data processes and solutions in Pandora’s context spanning from product design and manufacturing to our retail and consumer fronting commercial activities. The design of our master data tech landscape will take into account our ambitious data journey with SAP as one of the cornerstones, further roll out our Kafka EDA integrations platform and simplification of master data processes – to mention a few initiatives.
+
+Your Responsibilities Include
+
+With team design solid master data management strategy, policies and procedures
+Define Pandora’s master data models, master data architecture, entity-relationships and data dictionaries
+Design master data repositories, distribution processes and ensure quality and consistency
+Ensure seamless integration of master data across various systems and platforms
+Implement data quality measures and validation processes and develop data quality metrics.
+Ensure master data is secured and compliant with relevant data privacy regulations (e.g., GDPR, HIPAA).
+Lead the way for Pandora’s future master data framework, challenge the status quo and manage stakeholders on the way.
+Be part of a larger ERP data team and as one of the senior advisors in the team, bring team onboard our strategic direction
+Working alongside Data Governance and contributing to it. 
+Enterprise-wide understanding of Master Data. 
+Developing Master Data Principles 
 
 
+What Is Needed To Succeed
 
-We are building the world's greatest community of remote technologists!
-
-
-Today, organizations that understand the value of remote working will reap the rewards. Because it doesn’t just provide team members with a healthier work-life balance, it gives you the opportunity to access the brightest minds in the world.
-
-
-Our clients access our community to build or extend their existing teams. All are made up of remote, distributed software engineering experts - the best-in-class. Rapidly deployed without compromising on quality.
-
-
-Join our Remobi community to have access to meaningful, innovative freelance projects and play a key role in shaping how companies operate.
-
-
-Duration: Until End of Sept 2024 (with a possibility of extending)
-Start: ASAP
-Location: Remote (Candidates Must be in Europe)
-Position Type: Freelance/Contract/B2B
+Significant proven experience working within the field of Master Data, data architecture, data flows, interfaces, database design related to Master data.
+Knowledge of MDM platform tooling
+Proven experience from SAP ERP implementations where you have been involved with defining and refining master data models and processes. Preferably S/4 HANA with retail background.
+Knowledge of statistics and experience using Data Quality and statistical Tools for analyzing datasets
+Have worked with data transformations and/or Information Architecture and knows the challenges
+Analytical skills with the ability to collect, organize, analyze and disseminate significant amounts of information with attention to detail and accuracy
+Experience from data modelling tools like Erwin
+Experience from a relevant and complex data rich company, retail experience is an advantage
 
 
-Summary:
+Additional Experience Is a Benefit
 
-As a Data Architect you will be responsible for designing, creating, deploying, and managing data architecture. This role requires a deep understanding of database design, data integration, data governance, and performance optimization
-
-
-How You’ll Make An Impact (Responsibilities)
+Knowledge of and experience with Integration Technologies and Interface tools in general, preferably EDA associated such like Kafka, Kong and the native SAP interface toolset (BTP etc)
 
 
+About Pandora
 
-You will be responsible for:
+Pandora is the world's largest jewellery brand. The company designs, manufactures and markets hand-finished jewellery made from high-quality materials at affordable prices. Pandora jewellery is sold in more than 100 countries through 6,500 points of sale, including more than 2,500 concept stores.
 
+Headquartered in Copenhagen, Denmark, Pandora employs 32,000 people worldwide and crafts its jewellery at two LEED-certified facilities in Thailand. Pandora is committed to leadership in sustainability and will purchase mainly recycled silver and gold for crafting its jewellery by 2025 and halve greenhouse gas emissions across its value chain by 2030. Pandora is listed on the Nasdaq Copenhagen stock exchange and generated sales of DKK 26.5 billion (EUR 3.6 billion) in 2022.
 
-Dashboard development and data architecture services to deliver a robust, production talent acquisition data analysis solution
-Capturing and delivering requirements for data visualization dashboards/datahubs (such as data models, data architecture, database design/build, data sets integration, data pipelines and front-end requirements), working as part of an Agile delivery team (squad), collaborating with business, data and technical colleagues as needed.
-Building the data architecture solutions necessary to serve data visualization/datahubs and deploy into production
-Designing and developing data pipelines to extract, transform, and load the necessary data to meet data visualization/data-hub requirements, including any necessary analyses and calculations
-Building necessary monitoring and testing services to ensure an appropriate level of quality can be maintained in production
-Iterating and refining services based on stakeholder feedback to ensure alignment with the requirements and product vision.
-Building to a production-ready standard, and work with the team on technical dependencies necessary to do so.
-Preparing documentation, such as tickets and a wiki, to facilitate the agile development process and knowledge retention.
-Ensuring alignment and integration with adjacent data and analytics initiatives, to promote reusability and cost-effective-ness.
-
-
-What You Bring (Skills, Capabilities)
-
-
-
-You will:
-
-
-Proven experience as a Data Architect
-Strong knowledge of database management systems (e.g., SQL, NoSQL).
-Experience with data modeling tools and methodologies.
-Proficient in ETL tools and data integration techniques.
-In-depth understanding of data governance and data quality principles.
-Familiarity with data security and privacy regulations.
-Excellent communication and collaboration skills.
-Strong analytical and problem-solving abilities.
-Experience with cloud data platform- AWS
-
-
-Meet the hiring team
-Sandra
-Sandra P.  Sandra P. is verified
- 3rd
-Talent Acquisition Specialist
-Job poster
+Pandora’s recruitment procedures are designed to be transparent and clear for all candidates. This helps us ensure that applicants are provided with a fair and equal opportunity to demonstrate their competencies and skills by removing blocking factors, possible biases, and risks of discrimination. We encourage everyone applying to our vacancies to refrain from adding identity-related elements such as a photo, marital status and age.

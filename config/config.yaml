@@ -1,12 +1,15 @@
 aritfacts_root: aritfacts
 
+job_description:
+  job_description: prompt_text_inputs/job_description.txt
+  job_description_dir: artifacts/job_description
+  job_description_data: artifacts/job_description/job_description.json
 
 cover_letter:
   save_cover_letter_dir: artifacts/cover_letter
-  save_job_description_dir: artifacts/job_description
   cover_letter_rules: prompt_text_inputs/cover_letter_rules.txt
   qualifications: prompt_text_inputs/qualifictaions.txt
-  job_description: prompt_text_inputs/job_description.txt
+  
 
 CV:
   qualifications: prompt_text_inputs/qualifictaions.txt
@@ -15,5 +18,7 @@ CV:
   about_me: prompt_text_inputs/about_me.txt
   education: prompt_text_inputs/education.txt
   experience: prompt_text_inputs/experience.txt
+  projects: prompt_text_inputs/projects.txt
+  certifications: prompt_text_inputs/certifications.txt
   CV_file: CV/main.tex
   edited_CV: CV/edited_main.tex
