@@ -1,5 +1,3 @@
-Name:
-    Alejandro Maza Villalpando
 Masters in computational physics:
     One year mastest thesis unsing deep neural networks to build a predictive model in a star formation simulation
 3+ years workíng experinece with python:
