@@ -20,7 +20,7 @@ python -m venv venv
 ```
 source venv/bin/activate  
 ```
-* # On Windows:
+* On Windows:
  ```
 venv\Scripts\activate
 ```
@@ -89,7 +89,8 @@ job_application_agent/
 ```
 
 ## Usage
-Go to `\job_aplication_agent\research\06_test_api.ipynb` and do shit enter in the firts cell
+Go to `\job_aplication_agent\research\06_test_api.ipynb` and ru the first cell
+`Shift` +  `Enter` in the firts cell
 
 or use followng data as example: 
 
