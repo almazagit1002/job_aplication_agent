@@ -22,3 +22,8 @@ CV:
   certifications: prompt_text_inputs/certifications.txt
   CV_file: CV/main.tex
   edited_CV: CV/edited_main.tex
+
+Cv_to_json:
+  cv_path: Cv_to_json/CV_AMV_Eng.pdf
+  example_json_path : Cv_to_json/cvjson.json
+  edited_json_path : Cv_to_json/edited_json.json

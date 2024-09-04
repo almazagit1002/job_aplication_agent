@@ -356,3 +356,27 @@ aplication_stats_templates:
      
             
             <|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+cv_to_json_prompt_templates:
+  cv_to_json_prompt_template: |
+            <|begin_of_text|><|start_header_id|>system<|end_header_id|>
+              You are an expert job recruiter, you will read the information contained in a CV,
+              and you need to populate a JSON object with the relevant information.
+    
+              Always use double quotes for strings
+              Alwasy return a json object.
+              
+              ABSOLUTELY NO PREPHASE,NO SCRIPTS, NO COMMENTS, NO EXPLANATIONS.
+
+              <|eot_id|><|start_header_id|>user<|end_header_id|>
+              Read the CV information and populate the JSON:
+              CV:
+                {CV}
+              
+              JSON:
+                {JSON}
+              
+              Return only the JSON
+              <|eot_id|><|start_header_id|>assistant<|end_header_id|>
+              

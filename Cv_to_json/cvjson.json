@@ -1,0 +1,106 @@
+{
+    "email": "",
+    "role": "",  
+    "is_active": null,
+    "certifications": [
+        {
+            "start_year": "",
+            "end_year": "",
+            "certificates": [
+                {"certificate": ""},
+                {"certificate": ""}
+            ]
+        },
+        {
+            "start_year": "",
+            "end_year": "",
+            "certificates": [
+                {"certificate": ""}
+            ]
+        }
+    ],
+    "contact_info": {
+        "name": "",
+        "phon_ext": "",
+        "phone": "",
+        "linkedin": "",
+        "github": "",
+        "website": ""
+    },
+    "education": [
+        {
+            "start_year": "",
+            "end_year": "",
+            "degree": "",
+            "institution": "",
+            "subjects": [
+                {"subject": ""},
+                {"subject": ""},
+                {"subject": ""},
+                {"subject": ""}
+            ],
+            "thesis": ""
+        },
+        {
+            "start_year": "",
+            "end_year": "",
+            "degree": "",
+            "institution": "",
+            "subjects": [
+                {"subject": ""},
+                {"subject": ""},
+                {"subject": ""}
+            ]
+        }
+    ],
+    "experience": [
+        {
+           "start_date": "",
+            "end_date": "",
+            "company": "",
+            "job_type": "",
+            "responsabilities": ""
+        },
+        {
+            "start_date": "",
+            "end_date": null,
+            "company": "",
+            "job_type": "",
+            "responsabilities": ""
+        }
+    ],
+    "projects": [
+        {
+            "start_year": "",
+            "end_year": "",
+            "project_name": "",
+            "project_description": "",
+            "project_link": ""
+        },
+        {
+            "start_year": "",
+            "end_year": "",
+            "project_name": "",
+            "project_description": "",
+            "project_link": ""
+        }
+    ],
+    "soft_skills": [
+        {"skill": ""},
+        {"skill": ""},
+        {"skill": ""}
+    ],
+    "technical_skills": [
+        {
+            "tech_skill": "",
+            "experinece_time": null,
+            "use_case": ""
+        },
+        {
+            "tech_skill":  "",
+            "experinece_time": null,
+            "use_case": ""
+        }
+    ],
+    "about_me": ""
+}

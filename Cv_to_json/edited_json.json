@@ -1,0 +1,133 @@
+{
+    "email": "alemazav1002@gmail.com",
+    "role": "Data Engineer",
+    "is_active": null,
+    "certifications": [],
+    "contact_info": {
+        "name": "Alejandro Maza Villalpando",
+        "phon_ext": "",
+        "phone": "+45 91197494",
+        "linkedin": "",
+        "github": "",
+        "website": ""
+    },
+    "education": [
+        {
+            "start_year": "2021",
+            "end_year": "2023",
+            "degree": "MSc",
+            "institution": "Copenhagen University",
+            "subjects": [
+                {
+                    "subject": "Applied statistics"
+                },
+                {
+                    "subject": "High-performance parallel computing"
+                },
+                {
+                    "subject": "Inverse problems"
+                },
+                {
+                    "subject": "Scientific computing"
+                }
+            ],
+            "thesis": "Machine Learning Methods for Predicting Stellar Parameters in Realistic Molecular Cloud Environments"
+        },
+        {
+            "start_year": "2015",
+            "end_year": "2019",
+            "degree": "BSc",
+            "institution": "University of the West of Scotland",
+            "subjects": [
+                {
+                    "subject": "Complex analysis"
+                },
+                {
+                    "subject": "Statistical mechanics"
+                },
+                {
+                    "subject": "Partial differential equations"
+                }
+            ],
+            "thesis": ""
+        }
+    ],
+    "experience": [
+        {
+            "start_date": "August 2022",
+            "end_date": "September 2023",
+            "company": "Precure",
+            "job_type": "Data Engineer",
+            "responsabilities": "Established a CI/CD pipeline using Jenkins for streamlined project development and deployment. Developed a CNN system leveraging TensorFlow to detect and exclude noisy EMG signals. Configured and managed Linux servers for efficient data processing and analysis. Conducted a comparative analysis of EMG signals from different materials using Python and LaTeX, to improve material durability. Designed and implemented Docker images and containers for the ETL data processes, ensuring scalability and reproducibility. Ensured GDPR compliance by modifying segments of the ETL process using Python. Created data analytic dashboards using Power BI, providing insightful visualizations for finished project analysis."
+        },
+        {
+            "start_date": "August 2022",
+            "end_date": null,
+            "company": "Keller Willaims/Netguru",
+            "job_type": "Junior Data Engineer",
+            "responsabilities": "Implemented alerting mechanisms for the ETL pipeline of the Keller Williams website using Python, enhancing real-time monitoring and issue identification. Resolved bugs in the ETL pipeline, employing a skill set that includes Python, AWS, Linux, and Oracle technologies. Conducted data mapping tasks in Oracle, ensuring seamless integration and accurate representation of data across the system."
+        },
+        {
+            "start_date": "August 2019",
+            "end_date": "July 2018",
+            "company": "Novosound",
+            "job_type": "Probe Physicist",
+            "responsabilities": "Constructed and tested ultrasound probes using Novosound\u2019s innovative piezoelectric materials, contributing to the development of cutting-edge medical imaging devices. Modeled computer and mathematical ultrasound waves using Onscale, enhancing understanding and optimization of ultrasound-based systems."
+        }
+    ],
+    "projects": [],
+    "soft_skills": [
+        {
+            "skill": "Curiosity"
+        },
+        {
+            "skill": "Adaptability"
+        },
+        {
+            "skill": "Passion for physical and mental well-being"
+        }
+    ],
+    "technical_skills": [
+        {
+            "tech_skill": "Python",
+            "experinece_time": null,
+            "use_case": "ETL pipelines, data analysis, and machine learning projects"
+        },
+        {
+            "tech_skill": "SQL",
+            "experinece_time": null,
+            "use_case": ""
+        },
+        {
+            "tech_skill": "Machine learning",
+            "experinece_time": null,
+            "use_case": ""
+        },
+        {
+            "tech_skill": "Data Engineer",
+            "experinece_time": null,
+            "use_case": ""
+        },
+        {
+            "tech_skill": "AWS",
+            "experinece_time": null,
+            "use_case": ""
+        },
+        {
+            "tech_skill": "Linux",
+            "experinece_time": null,
+            "use_case": ""
+        },
+        {
+            "tech_skill": "Docker",
+            "experinece_time": null,
+            "use_case": ""
+        },
+        {
+            "tech_skill": "Statistics",
+            "experinece_time": null,
+            "use_case": ""
+        }
+    ],
+    "about_me": "I am a curious person with a diverse set of hobbies, including yoga, salsa dancing, and rock climbing, reflecting my passion for both physical and mental well-being. Beyond these pursuits, I am an avid learner and voracious reader, finding joy in expanding my knowledge. Traveling and immersing myself in different cultures have been integral to my life, I have spent the last 11 years residing in various European cities, including London, Glasgow, Krakow, and Copenhagen. This journey has not only broadened my perspectives but has also enriched my adaptability and appreciation for diversity."
+}

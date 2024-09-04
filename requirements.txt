@@ -133,4 +133,6 @@ langgraph
 pymongo
 matplotlib
 fastapi
+PyPDF2
+
 -e .
